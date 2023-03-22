@@ -1,6 +1,6 @@
 "use client"
 import {motion} from "framer-motion"
-import { staggerContainer, fadeIn, planetVariants } from "../utils/motion";
+import { staggerContainer, fadeIn, planetVariants, textContainer } from "../utils/motion";
 import styles from "../styles"
 import "flowbite"
 
@@ -89,10 +89,10 @@ const Text = () => (
     
     
     <motion.div
-    variants={staggerContainer}
+    variants={textContainer}
     initial="hidden"
     whileInView="show"
-    viewport={{ once: "false", amount: 0.35}}
+    viewport={{  amount: 0.35}}
     className={`${styles.innerWidth} mx-auto flex lg:flex-row flex-col gap-8`}
     >
 

@@ -1,13 +1,13 @@
 "use client"
  import {motion} from "framer-motion"
  import styles from "../styles"
- import {slideIn, staggerContainer, textVariant} from "../utils/motion"
+ import {slideIn, staggerContainer, textVariant, textContainer} from "../utils/motion"
 
 
 const Hero = () => (
   <section className="">
   <motion.div
-  variants={staggerContainer}
+  variants={textContainer}
   initial="hidden"
   whileInView="show"
   viewport={{ once: false, amount: 0.25}}

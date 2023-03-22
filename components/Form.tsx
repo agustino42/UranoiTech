@@ -58,35 +58,35 @@ function Form () {
 </div>
 <p className="text-3x1 font-extrabold text-gray-500 dark:text-gray-400">1,745 Likes ratings</p>
 <div className="flex items-center mt-4">
-    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">----> 5 star</span>
+    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">---- 5 star</span>
     <div className="w-2/4 h-5 mx-4 bg-gray-200 rounded dark:bg-gray-700">
         <div className="h-5 bg-yellow-400 rounded"></div>
     </div>
     <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">70%</span>
 </div>
 <div className="flex items-center mt-4">
-    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">---->  4 star</span>
+    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">----  4 star</span>
     <div className="w-2/4 h-5 mx-4 bg-gray-200 rounded dark:bg-gray-700">
         <div className="h-5 bg-yellow-400 rounded" ></div>
     </div>
     <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">17%</span>
 </div>
 <div className="flex items-center mt-4">
-    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">---->  3 star</span>
+    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">----  3 star</span>
     <div className="w-2/4 h-5 mx-4 bg-gray-200 rounded dark:bg-gray-700">
         <div className="h-5 bg-yellow-400 rounded" ></div>
     </div>
     <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">8%</span>
 </div>
 <div className="flex items-center mt-4">
-    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">---->  2 star</span>
+    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">----  2 star</span>
     <div className="w-2/4 h-5 mx-4 bg-gray-200 rounded dark:bg-gray-700">
         <div className="h-5 bg-yellow-400 rounded"></div>
     </div>
     <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">4%</span>
 </div>
 <div className="flex items-center mt-4">
-    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">----> 1 star</span>
+    <span className="text-4x1 font-extrabold text-blue-600 dark:text-blue-500">---- 1 star</span>
     <div className="w-2/4 h-5 mx-4 bg-gray-200 rounded dark:bg-gray-700">
         <div className="h-5 bg-yellow-400 rounded" ></div>
     </div>
