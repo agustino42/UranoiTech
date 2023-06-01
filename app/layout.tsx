@@ -3,18 +3,7 @@ import "../styles/globals.css";
 
 import Providers from "./Providers";
 import Header from "../components/Header";
-import Contenido from "../components/Contenido";
-import Logo from "../components/Logo";
-import Hero from "../components/Hero";
-import About from "../components/About";
 
-import Banner from "../components/Banner";
-
-import Cards from "../components/Cards";
-import Text from "../components/Text";
-import Form from "../components/Form";
-import Footer from "../components/Footer";
-import Inversores from "../components/Inversores";
 
 
 
