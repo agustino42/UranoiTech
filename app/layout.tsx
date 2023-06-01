@@ -23,20 +23,7 @@ export default function RootLayout({
        <body className="bg-gray-100 dark:bg-zinc-900 transition-all duration-700 ">
        <Header />
        
-       <Logo />
-       <Contenido />
-
-      
-      <Hero />
-      
-     <About />
      
-     <Cards />
-     <Text />
-     <Form />
-     <Banner />
-     <Inversores />
-     <Footer />
       <div className="max-w-6xl mx-auto">{children}</div>
       </body>
     
